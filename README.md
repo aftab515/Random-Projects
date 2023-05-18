@@ -26,3 +26,6 @@ https://user-images.githubusercontent.com/114320334/225865532-9b2a87ad-0e24-4c23
 
 ## Home-Chrome-Redesigned-by-Alpha
 <img width="951" alt="Google redesign" src="https://github.com/aftab515/Random-Projects/assets/114320334/347b41e3-3963-4473-8547-225acc3b79b1">
+
+## Responsive-Youtube-Clone
+<img width="941" alt="YT" src="https://github.com/aftab515/Random-Projects/assets/114320334/ef9be1c7-1d42-449a-8006-3db147aed22d">
